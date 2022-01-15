@@ -1,0 +1,10 @@
+
+Q	java:S125X"<This block of commented-out lines of code should be removed.(çõßé
+h
+java:S11927"MDefine a constant instead of duplicating this literal "buildVersion" 3 times.(¾£É„üÿÿÿÿ
+n
+java:S11924"SDefine a constant instead of duplicating this literal "currentUserEditUrl" 4 times.(æò‚øÿÿÿÿ
+n
+java:S11926"SDefine a constant instead of duplicating this literal "currentContextPath" 3 times.(¥¼ê‹şÿÿÿÿ
+f
+java:S1192N"KDefine a constant instead of duplicating this literal "loginError" 3 times.(à —Àüÿÿÿÿ

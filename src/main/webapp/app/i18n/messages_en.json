@@ -1,0 +1,147 @@
+{
+  "general": {
+    "SQL_CONSTRAINT_VIOLATION": "The item is used in the application and cannot be deleted.",
+    "ID": "ID",
+    "YES": "Yes",
+    "NO": "No",
+    "ALL": "All",
+    "RESET": "Reset",
+    "SEARCH": "Search",
+    "HOME": "Home",
+    "CONTACT": "Contact",
+    "ADMINISTRATION": "Administration",
+    "REPORTS": "Reports",
+    "APPLICATION_ERRORS_TAB": "Application errors",
+    "LOGOUT": "Logout",
+    "CLOSE_BUTTON": "Close",
+    "SAVE_BUTTON": "Save",
+    "FILTERS": "Filters",
+    "APPLY": "Apply",
+    "NAVIGATE_TO_PAGE": "Navigate to page",
+    "LINES": "lines",
+    "profileDropDown": {
+      "MANAGE": "MANAGE",
+      "COMPANY": "Company",
+      "SUPPLIERS": "Suppliers",
+      "USERS": "Users",
+      "GROUP_RIGHTS": "Groups rights"
+    },
+    "errorTypes": {
+      "Informative": "Info",
+      "Rejected": "Rejected",
+      "Recycled": "Recycled"
+    },
+    "tooltips": {
+      "ADD": "Add",
+      "EDIT": "Edit",
+      "DELETE": "Delete",
+      "SEARCH": "Search",
+      "SAVE": "Save",
+      "BACK": "Back",
+      "CLOSE": "Close",
+      "REFRESH": "Refresh",
+      "PREVIOUS": "previous",
+      "NEXT": "next",
+      "CHECK_ALL": "Select all",
+      "UNCHECK_ALL": "Select none",
+      "REPLY": "Reply",
+      "SEND_EMAIL": "Send",
+      "CANCEL": "Cancel",
+      "DOWNLOAD": "Download",
+      "UPLOAD": "Upload",
+      "RESET": "Reset"
+    },
+    "buttons": {
+      "ADD": "Add",
+      "EDIT": "Edit",
+      "DELETE": "Delete",
+      "SEARCH": "Search",
+      "SAVE": "Save",
+      "BACK": "Back",
+      "CLOSE": "Close",
+      "REFRESH": "Refresh",
+      "PREVIOUS": "previous",
+      "NEXT": "next",
+      "CHECK_ALL": "Select all",
+      "UNCHECK_ALL": "Select none",
+      "REPLY": "Reply",
+      "SEND_EMAIL": "Send",
+      "CANCEL": "Cancel",
+      "DOWNLOAD": "Download",
+      "UPLOAD": "Upload",
+      "RESET": "Reset",
+      "SELECT": "Select"
+    },
+    "fields": {
+      "ID": "Id",
+      "CREATED_AT": "Created at",
+      "CREATED_BY": "Created by",
+      "UPDATED_AT": "Updated at",
+      "UPDATED_BY": "Updated by",
+      "START_DATE": "Start date",
+      "END_DATE": "End date",
+      "LAST_LOGIN": "Last login",
+      "NO_SELECT": "No selection",
+      "SELECT_ALL": "Select all",
+      "DESELECT_ALL": "Deselect all",
+      "SELECTED": "selected",
+      "ORIGIN": "Origin",
+      "APPLICATION": "Application",
+      "CODE": "Code"
+    },
+    "static": {
+      "TITLE": "Access denied",
+      "ERROR_TITLE": "Error page",
+      "CONTENT": "You are not authorised to view this page.",
+      "ERROR_CONTENT": "An error has occurred",
+      "PREVIOUS_PAGE": "Previous page"
+    },
+    "notificationsPopup": {
+      "POPUP_TITLE": "User notifications",
+      "TITLE": "Notification",
+      "CONTENT": "Content",
+      "CLOSE_BUTTON": "Close"
+    },
+    "breadcrumbs": {
+      "HOME": "home",
+      "USERS": "users"
+    }
+  },
+  "users": {
+    "TITLE": "Users management",
+    "SEARCH_BY_NAME": "Search by name",
+    "view": {
+      "TITLE_EDIT": "Edit user",
+      "TITLE_NEW": "New user",
+      "TITLE_EDIT_PRIVILEGES": "Edit user privilege",
+      "FIELD_USERNAME": "Username",
+      "FIELD_PASSWORD": "Password",
+      "FIELD_PASSWORD_CONFIRMATION": "Password confirmation",
+      "FIELD_NAME": "First name",
+      "FIELD_SURNAME": "Last name",
+      "FIELD_LANGUAGE": "Language",
+      "FIELD_EMAIL": "Email",
+      "FIELD_PHONE": "Phone number",
+      "FIELD_FUNCTION": "Function",
+      "FIELD_ID": "ID"
+    },
+    "messages": {
+      "DELETE_QUESTION": "Are you sure you want to delete the selected user?",
+      "DELETE_CONFIRMATION": "User deleted successfully.",
+      "CREATE_CONFIRMATION": "User created successfully.",
+      "UPDATE_CONFIRMATION": "User updated successfully.",
+      "PASSWORD_WARNING": "Password doesn't match."
+    },
+    "buttons": {
+      "ADD": "Add user"
+    }
+  },
+  "users-privileges":{
+    "view": {
+      "PRIVILEGES_SELECTED": "Privileges selected"
+    },
+    "messages": {
+      "UPDATE_CONFIRMATION": "User privileges updated successfully."
+    }
+  }
+}

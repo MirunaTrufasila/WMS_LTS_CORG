@@ -1,0 +1,27 @@
+info:
+  build:
+    group: '@project.groupId@'
+    artifact: '@project.artifactId@'
+    version: '@project.version@'
+    name: '@project.name@'
+    description: '@project.description@'
+
+management:
+  info:
+    git:
+      mode: full
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+      base-path: /actuator
+  endpoint:
+    health:
+      enabled: true
+
+server:
+  port: 2000
+  servlet:
+    context-path: /wms
+
+redirect-after-login: /

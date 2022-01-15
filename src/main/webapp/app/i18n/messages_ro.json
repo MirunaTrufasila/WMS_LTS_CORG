@@ -1,0 +1,130 @@
+{
+  "general": {
+    "SQL_CONSTRAINT_VIOLATION": "Componenta este folosită în aplicație și nu poate fi ștearsă.",
+    "ID": "ID",
+    "YES": "Da",
+    "NO": "Nu",
+    "ALL": "Toate",
+    "RESET": "Resetează",
+    "SEARCH": "Caută",
+    "HOME": "Acasă",
+    "CONTACT": "Contact",
+    "ADMINISTRATION": "Administrare",
+    "REPORTS": "Rapoarte",
+    "APPLICATION_ERRORS_TAB": "Erori aplicație",
+    "LOGOUT": "Deconectare",
+    "CLOSE_BUTTON": "Renunțare",
+    "SAVE_BUTTON": "Salvare",
+    "FILTERS": "Filtre",
+    "APPLY": "Aplică",
+    "LINES": "linii",
+    "profileDropDown": {
+      "MANAGE": "ADMINISTRARE",
+      "COMPANY": "Companie",
+      "SUPPLIERS": "Furnizori",
+      "USERS": "Utilizatori",
+      "GROUP_RIGHTS": "Drepturi grupuri"
+    },
+    "errorTypes": {
+      "Informative": "Info",
+      "Rejected": "Respinsă",
+      "Recycled": "Reciclată"
+    },
+    "buttons": {
+      "ADD": "Adaugă",
+      "EDIT": "Editare",
+      "DELETE": "Șterge",
+      "SEARCH": "Căutare",
+      "SAVE": "Salvare",
+      "BACK": "Înapoi",
+      "CLOSE": "Închide",
+      "REFRESH": "Actualizare",
+      "PREVIOUS": "anterior",
+      "NEXT": "următor",
+      "CHECK_ALL": "Selectare tot",
+      "UNCHECK_ALL": "Deselectare tot",
+      "REPLY": "Răspunde",
+      "SEND_EMAIL": "Trimite",
+      "CANCEL": "Renunțare",
+      "DOWNLOAD": "Download",
+      "UPLOAD": "Încărcare fișier",
+      "RESET": "Resetare",
+      "SELECT": "Selectare"
+    },
+    "tooltips": {
+      "ADD": "Add",
+      "EDIT": "Edit",
+      "DELETE": "Delete",
+      "SEARCH": "Search",
+      "SAVE": "Save",
+      "BACK": "Back",
+      "CLOSE": "Close",
+      "REFRESH": "Refresh",
+      "PREVIOUS": "previous",
+      "NEXT": "next",
+      "CHECK_ALL": "Select all",
+      "UNCHECK_ALL": "Select none",
+      "REPLY": "Reply",
+      "SEND_EMAIL": "Send",
+      "CANCEL": "Cancel",
+      "DOWNLOAD": "Download",
+      "UPLOAD": "Upload",
+      "RESET": "Reset",
+      "SELECT": "Select"
+    },
+    "static": {
+      "TITLE": "Acces refuzat",
+      "ERROR_TITLE": "Pagină de eroare",
+      "CONTENT": "Nu sunteți autorizat să vizualizați această pagină.",
+      "ERROR_CONTENT": "A intervenit o eroare.",
+      "PREVIOUS_PAGE": "Pagina anterioară"
+    },
+    "notificationsPopup": {
+      "POPUP_TITLE": "Notificări utilizator",
+      "TITLE": "Notificare",
+      "CONTENT": "Conținut",
+      "CLOSE_BUTTON": "Închide"
+    },
+    "breadcrumbs": {
+      "HOME": "acasă",
+      "USERS": "utilizatori"
+    }
+  },
+  "users": {
+    "TITLE": "Administrare utilizatori",
+    "SEARCH_BY_NAME": "Căutare după nume",
+    "view": {
+      "TITLE_EDIT": "Editare utilizator",
+      "TITLE_NEW": "Utilizator nou",
+      "TITLE_EDIT_PRIVILEGES": "Editare drepturi utilizator",
+      "FIELD_USERNAME": "Nume utilizator",
+      "FIELD_PASSWORD": "Parola",
+      "FIELD_PASSWORD_CONFIRMATION": "Confirmare parolă",
+      "FIELD_NAME": "Prenume",
+      "FIELD_SURNAME": "Nume",
+      "FIELD_LANGUAGE": "Limba",
+      "FIELD_EMAIL": "Email",
+      "FIELD_PHONE": "Număr telefon",
+      "FIELD_FUNCTION": "Funcție",
+      "FIELD_ID": "ID"
+    },
+    "messages": {
+      "DELETE_QUESTION": "Sunteți siguri că doriți ștergerea utilizatorului selectat?",
+      "DELETE_CONFIRMATION": "Utilizatorul a fost șters cu succes.",
+      "CREATE_CONFIRMATION": "Utilizatorul a fost creat cu succes.",
+      "UPDATE_CONFIRMATION": "Utilizatorul a fost actualizat cu succes.",
+      "PASSWORD_WARNING": "Parola introdusă nu este aceeași ca în primul câmp."
+    },
+    "buttons": {
+      "ADD": "Adăugare utilizator"
+    }
+  },
+  "users-privileges":{
+    "view": {
+      "PRIVILEGES_SELECTED": "Drepturi selectate"
+    },
+    "messages": {
+      "UPDATE_CONFIRMATION": "Drepturile utilizatorului au fost salvate cu success."
+    }
+  }
+}
